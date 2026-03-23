@@ -20,4 +20,6 @@
 
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/11ec78eb-df3f-45d7-b5cf-52b9ff76d213" />
 
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/acaaed60-f304-4878-a193-60eabf8186e0" />
+
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/077b40d7-158a-4c33-acba-48e4611650c6" />
